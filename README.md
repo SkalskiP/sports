@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/26109316/207858600-ee862b22-0353-440b-
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=AWjKfjDGiYE)
 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SkalskiP/sport/tree/master/football-players-pose-estimation)
 
-I was watching a FIFA 2022 World Cup match the other day, and one of the things that caught my eye was VAR - Video Assistant Referee, or to be more precise, the part of it responsible for analyzing whether a player was on the offside. I did a little [research](https://www.youtube.com/watch?v=WycjDx6giVE) and found that the system performs pose estimation on multiple cameras at once. I decided to check how difficult it would be to reproduce it at home.
+I was watching a FIFA 2022 World Cup match the other day, and one of the things that caught my eye was VAR - Video Assistant Referee, or to be more precise, the part of it responsible for analyzing whether a player was on the offside. I did a little [research](https://www.youtube.com/watch?v=WycjDx6giVE) and found that the system performs pose estimation on multiple cameras at once. I decided to check how difficult it would be to reproduce it at home using two cameras and [YOLOv7](https://github.com/WongKinYiu/yolov7).
 
 https://user-images.githubusercontent.com/26109316/207677038-20f951a6-e469-4b3f-a934-66e036fcff69.mp4
