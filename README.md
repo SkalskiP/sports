@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/26109316/207677038-20f951a6-e469-4b3f-
 
 # 👕 Assigning Football Players to Teams by Uniform Color with GPT-4V
 
-This project explores the use of [GPT-4V](https://openai.com/research/gpt-4v-system-card) in sports analytics, specifically in the context of football. Its primary aim was to evaluate whether GPT-4V could effectively distinguish and assign players to teams based on the color of their uniforms. This was achieved through the implementation of several advanced vision prompting techniques.
-
 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SkalskiP/sport/tree/master/football-analysis-with-gpt4-vision)
+
+This project explores the use of [GPT-4V](https://openai.com/research/gpt-4v-system-card) in sports analytics, specifically in the context of football. Its primary aim was to evaluate whether GPT-4V could effectively distinguish and assign players to teams based on the color of their uniforms. This was achieved through the implementation of several advanced vision prompting techniques.
 
 https://github.com/SkalskiP/sport/assets/26109316/cbc0cac5-8910-4e5e-9ca2-a8ea9f1f4f07
