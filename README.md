@@ -18,3 +18,11 @@ https://user-images.githubusercontent.com/26109316/207858600-ee862b22-0353-440b-
 I was watching a FIFA 2022 World Cup match the other day, and one of the things that caught my eye was VAR - Video Assistant Referee, or to be more precise, the part of it responsible for analyzing whether a player was on the offside. I did a little [research](https://www.youtube.com/watch?v=WycjDx6giVE) and found that the system performs pose estimation on multiple cameras at once. I decided to check how difficult it would be to reproduce it at home using two cameras and [YOLOv7](https://github.com/WongKinYiu/yolov7).
 
 https://user-images.githubusercontent.com/26109316/207677038-20f951a6-e469-4b3f-a934-66e036fcff69.mp4
+
+# 👕 Assigning Football Players to Teams by Uniform Color with GPT-4V
+
+This project explores the use of [GPT-4V](https://openai.com/research/gpt-4v-system-card) in sports analytics, specifically in the context of football. Its primary aim was to evaluate whether GPT-4V could effectively distinguish and assign players to teams based on the color of their uniforms. This was achieved through the implementation of several advanced vision prompting techniques.
+
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SkalskiP/sport/tree/master/football-analysis-with-gpt4-vision)
+
+https://github.com/SkalskiP/sport/assets/26109316/cbc0cac5-8910-4e5e-9ca2-a8ea9f1f4f07
