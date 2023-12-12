@@ -25,4 +25,4 @@ https://user-images.githubusercontent.com/26109316/207677038-20f951a6-e469-4b3f-
 
 This project explores the use of [GPT-4V](https://openai.com/research/gpt-4v-system-card) in sports analytics, specifically in the context of football. Its primary aim was to evaluate whether GPT-4V could effectively distinguish and assign players to teams based on the color of their uniforms. This was achieved through the implementation of several advanced vision prompting techniques.
 
-https://github.com/SkalskiP/sport/assets/26109316/cbc0cac5-8910-4e5e-9ca2-a8ea9f1f4f07
+https://github.com/SkalskiP/sports/assets/26109316/b354b38d-1a12-477d-9283-45059ce12467
